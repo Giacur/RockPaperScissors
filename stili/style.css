@@ -1,0 +1,34 @@
+:root {
+    font-size: 25px;
+}
+
+body {
+    background-color: #2B2D42;
+}
+
+* {
+    color: #EDF2F4;
+}
+
+.my-bg-red {
+    background-color: #25c0a6a9;
+}
+
+.my-heigth {
+    height: 50vh;
+}
+
+body {
+    background-image: url('../img/pngegg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ombra {
+    text-shadow: 1px 1px 1px black;
+}
+
+.my-text-color {
+    color: #EF233C;
+}
